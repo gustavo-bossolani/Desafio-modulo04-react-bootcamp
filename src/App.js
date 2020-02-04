@@ -1,9 +1,10 @@
 import React from 'react';
 import './App.css';
-import image from './assets/ds_avatar.jpg';
+
+import Header from './components/header/Header';
 
 function App() {
-    return <img src={image}/>
+    return <Header />
 }
 
 export default App;
