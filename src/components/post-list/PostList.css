@@ -1,0 +1,49 @@
+container {
+  padding: 3%;
+  background: white;
+  width: 80%;
+  display: block;
+  margin: 30px 10% 0 10%;
+  border-radius: 3px;
+  box-shadow: 0px 1px 8px -4px gray;
+  box-sizing: border-box;
+}
+
+#profile-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin: 0 15px 0 0;
+  display: inline-block;
+}
+
+#profile-name {
+  font-size: 16px;
+  font-family: Ubuntu, Arial;
+  font-weight: bold;
+}
+
+#profile-date {
+  font-size: 13px;
+  font-family: Ubuntu, Arial;
+  font-style: italic;
+  color: rgb(170, 170, 170);
+}
+
+#profile-header {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 8px;
+}
+
+#profiler-message > p#message {
+  margin: 3% 0 4% 0;
+  font-size: 17px;
+  font-family: Ubuntu, Arial;
+  text-align: justify;
+}
+
+#division {
+  color: rgb(170, 170, 170);
+  opacity: .2;
+}
