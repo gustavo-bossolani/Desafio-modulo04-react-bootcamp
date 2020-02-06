@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
 import logo from '../../assets/facebook-logo.png';
 import profile from '../../assets/profile.png';
